@@ -1,0 +1,69 @@
+{
+  "doctors": [
+    {
+      "name": "João",
+      "gender": "Homem",
+      "specialty": "Cardiologista",
+      "healthPlan": [
+        {
+          "name": "Unimed"
+        },
+        {
+          "name": "Bradesco"
+        }
+      ]
+    },
+    {
+      "name": "Natália Guimarães",
+      "gender": "Mulher",
+      "specialty": "Neurocirurgiã",
+      "healthPlan": [
+        {
+          "name": "Unimed"
+        },
+        {
+          "name": "Bradesco"
+        },
+        {
+          "name": "Hapvida"
+        }
+      ]
+    },
+    {
+      "name": "Paulo",
+      "gender": "Homem",
+      "specialty": "Hepatologista",
+      "healthPlan": [
+        {
+          "name": "Bradesco"
+        }
+      ]
+    },
+    {
+      "name": "Vilar",
+      "gender": "Homem",
+      "specialty": "Clínico Geral",
+      "healthPlan": [
+        {
+          "name": "Bradesco"
+        }
+      ]
+    },
+    {
+      "name": "Veras",
+      "gender": "Mulher",
+      "specialty": "Clínico Geral",
+      "healthPlan": [
+        {
+          "name": "Unimed"
+        }
+      ]
+    },
+    {
+      "name": "Natália Dias",
+      "gender": "Mulher",
+      "specialty": "Clínico Geral",
+      "healthPlan": []
+    }
+  ]
+}
